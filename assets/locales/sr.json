@@ -5,7 +5,7 @@
   "hook_sub": "Kad signal nestane, Signalizer te vraća do poslednjeg mesta gde si ga imao.",
   "c2": "Nema signala? <em>Vrati se svojim tragom.</em>",
   "c2_sub": "Mapa se okreće sa tobom. Razdaljina i vreme hoda do poslednjeg signala — samo GPS, bez mreže.",
-  "c3": "Signal nestao? <em>Snima samo.</em>",
+  "c3": "Signal nestao? <em>Trag se snima sam.</em>",
   "c3_sub": "Jednom uključi „Stalno praćenje“ ili dodirni „Krećem“ za jednu turu. Trag počinje čim signal nestane.",
   "c4": "Označi auto. <em>Nađi ga ponovo.</em>",
   "c4_sub": "Sačuvaj auto, kamp ili izvor, a strelica sa razdaljinom i vremenom hoda vraća te nazad.",

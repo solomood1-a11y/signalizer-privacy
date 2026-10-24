@@ -5,7 +5,7 @@
   "hook_sub": "Saat sinyal hilang, Signalizer mengarahkanmu kembali ke tempat terakhir yang masih ada sinyal.",
   "c2": "Hilang sinyal? <em>Telusuri jejakmu kembali.</em>",
   "c2_sub": "Peta ikut berputar bersamamu. Jarak dan waktu jalan kaki ke sinyal terakhir — hanya GPS, tanpa jaringan.",
-  "c3": "Sinyal hilang? <em>Merekam sendiri.</em>",
+  "c3": "Sinyal hilang? <em>Merekam otomatis.</em>",
   "c3_sub": "Nyalakan Selalu pantau sekali, atau ketuk “Berangkat” untuk satu perjalanan. Jejakmu mulai terekam begitu sinyal hilang.",
   "c4": "Tandai mobilmu. <em>Temukan lagi.</em>",
   "c4_sub": "Simpan mobil, tenda, atau sumber air, lalu panah dengan jarak dan waktu jalan kaki membawamu kembali.",
